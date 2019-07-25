@@ -1,0 +1,33 @@
+.img-fluid1{
+    height: 320px;
+}
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+  @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.ft14 {
+font-size: 44px !important;
+  color:#3f729b;
+  
+}
+.bg-blue{
+background-color: !important;
+  color:#fffff;
+}
+
+.img-fluid2{
+    height: 215px;
+    width: 300px;
+    margin-left: -10%;
+    
+}
+.img-fluid3{
+    height: 190px;
+    width: 280px;
+    
+}
+.img-fluid4{
+    
+     height: 215px;
+    margin-left: -10%;
+    
+}
